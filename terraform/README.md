@@ -1,0 +1,1 @@
+in the terraform gitignor file, all files with the exe extension are ignored.
